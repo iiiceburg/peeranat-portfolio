@@ -1,4 +1,4 @@
-import { SiNodeDotJs, SiGit, SiDocker, SiFigma, SiReact, SiMicrosoftazure, SiAmazonaws, SiRedux, SiLinux, SiWordpress, SiPython } from "react-icons/si";
+import { SiNodedotjs, SiGit, SiDocker, SiFigma, SiReact, SiMicrosoftazure, SiAmazonaws, SiRedux, SiLinux, SiWordpress, SiPython } from "react-icons/si";
 
 export const Skills = [
   {
@@ -15,7 +15,7 @@ export const Skills = [
   },
   {
     slug: "node",
-    Component: SiNodeDotJs,
+    Component: SiNodedotjs,
     title: "Node.js",
     Description: () => <></>,
   },
