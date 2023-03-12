@@ -15,7 +15,7 @@ const Timeline = () => {
       </SectionText>
       <div className="experience-container">
         <div className="exp-header">
-          <h1>Web Developer</h1>
+          <h1>Fullstack Developer</h1>
           <h3>Apr 2021 - Present</h3>
         </div>
         <div className="exp-company">
