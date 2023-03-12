@@ -37,11 +37,11 @@ export default class MyDocument extends Document {
           <meta property="og:type" content="website" />
           <meta property="og:title" content="PEERANAT - Fullstack Developer" />
           <meta property="og:description" content="          Hey there, This is Peeranat Ounhnana who passionate about Cybersecurity and Cloud Solution Architect. Gold Microsoft Learn Student Ambassador | Mid-level Full Stack Developer | MCT | SEC+, AZ-500, ECSS." />
-          {/* <meta property="og:image" content="https://www.vipuljha.com/images/banner.png" /> */}
+          <meta property="og:image" content="/profile.jpg" />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:title" content="PEERANAT - Fullstack Developer" />
           <meta property="twitter:description" content="          Hey there, This is Peeranat Ounhnana who passionate about Cybersecurity and Cloud Solution Architect. Gold Microsoft Learn Student Ambassador | Mid-level Full Stack Developer | MCT | SEC+, AZ-500, ECSS." />
-          {/* <meta property="twitter:image" content="https://www.vipuljha.com/images/banner.png" /> */}
+          <meta property="twitter:image" content="/profile.jpg" />
         </Head>
         <body>
           <Main />
